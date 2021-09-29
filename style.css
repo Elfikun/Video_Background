@@ -104,6 +104,7 @@ header .logo {
     position: relative;
     z-index: 3;
     font-size: 12vw;
+    user-select: none;
     color: #fff;
     text-shadow: 0 20px 30px rgba(0, 0, 0, 0.2);
 }
