@@ -149,6 +149,7 @@ header .logo {
     z-index: 4;
     font-weight: 500;
     font-size: 1.2em;
+    user-select: none;
     color: var(--black);
 }
 .sci {
